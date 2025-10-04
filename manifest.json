@@ -1,0 +1,23 @@
+{
+    "name": "Como chegar ao Marco Zero",
+    "short_name": "Marco Zero",
+    "description": "Veja a distância até o Marco Zero e abra o GPS com o destino definido.",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#bbe1ff",
+    "theme_color": "#9ae1ff",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "icons/icone-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icone-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
